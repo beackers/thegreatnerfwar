@@ -3,6 +3,6 @@ The biggest Nerf repository Github has ever seen with rules and regulations. Bec
 
 
 # current rules
-Regular battles: [v1.0 coming soon]()
-Humans Vs. Zombies: coming soon
-Capture The Base: coming soon
+Regular battles: [v1.0 coming soon]()<br>
+Humans Vs. Zombies: coming soon<br>
+Capture The Base: coming soon<br>
