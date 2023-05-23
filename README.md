@@ -1,5 +1,7 @@
 # thegreatnerfwar
-The biggest Nerf repository Github has ever seen with rules and regulations. Because hey, this stuff matters.
+We're working on it.
+Currently we host 3 different versions which can be found [here](https://github.com/beackers/thegreatnerfwar/releases).<br>
+#### Coming soon: Boss Battle! (read about it below)
 
 
 # current rules
