@@ -1,6 +1,6 @@
 # thegreatnerfwar
-Currently we host 3 different versions which can be found [here](https://github.com/beackers/thegreatnerfwar/releases).<br>
-#### New arrival: Boss Battle is now on the scene! (added 5/24/22)
+Currently we host 4 different versions which can be found [here](https://github.com/beackers/thegreatnerfwar/releases).<br>
+#### NEWEST VERSION ADAPTED!!! COMING ASAP!
 
 
 # current rules
