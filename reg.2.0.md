@@ -62,3 +62,8 @@ Players try to achieve a predetermined objective.
 ### i. Concerning War Zones
 1. Any Soldier, Captain, or General may fire a weapon on the Battlegrounds, except for No-Fire Zones.
 2. Participants are not limited to traversing only the War Zone. However, they cannot exit the Battlegrounds during a Battle, unless directed by a General or other Authority.
+### ii. Concerning Weaponry
+1. No weapons other than Guns (as defined in Rule I.ii.6) are permitted on the Battlegrounds, including knives of any sort.
+2. Guns under this definition may be modified, but must stay within these limits:
+   a. The Gun must take a Dart (as defined in Rule I.ii.7).
+   b. The Gun must have an orange barrel tip that is clearly visible to any person within 25 yards.
